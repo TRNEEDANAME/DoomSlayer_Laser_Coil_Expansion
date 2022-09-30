@@ -22,7 +22,7 @@ This will be the most up to date project folder from the mod, even before it's o
 
 #### Install one of those mods for this one to do anything
 
-- [[WOTC] Iridar's Five Tier Weapon Overhaul - Vanilla Balance](https://steamcommunity.com/sharedfiles/filedetails/?id=2406120902) - In short...the original mod was setup for 5 tiers using LWOTC setup. Innately, we have the mod setup for vanilla and ALSO to use this mod.
+- [[WOTC] Iridar's Five Tier Weapon Overhaul - Vanilla Balance](https://steamcommunity.com/sharedfiles/filedetails/?id=2406120902)
 - [Long war of the chosen](https://steamcommunity.com/sharedfiles/filedetails/?id=2683996590)
 - Any other mod that adds Laser and Coil tech to the game (if you do, tell me about it so that I can add the code for it)
 
