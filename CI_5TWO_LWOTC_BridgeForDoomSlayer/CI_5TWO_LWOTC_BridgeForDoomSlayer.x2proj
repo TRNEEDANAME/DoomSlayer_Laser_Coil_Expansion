@@ -21,6 +21,9 @@
     <Content Include="Config\XcomTemplateEditor.ini">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Config\XcomWeaponSkinReplacer.ini">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="ReadMe.txt" />
     <Content Include="ModPreview.jpg" />
     <Content Include="Config\XComEditor.ini" />
