@@ -22,7 +22,8 @@ This will be the most up to date project folder from the mod, even before it's o
 
 #### Install one of those mods for this one to do anything
 
-- [[WOTC] Iridar's Five Tier Weapon Overhaul - Vanilla Balance](https://steamcommunity.com/sharedfiles/filedetails/?id=2406120902)
+- [[WOTC] Iridar's Five Tier Weapon Overhaul - Vanilla Balance](https://steamcommunity.com/sharedfiles/filedetails/?id=2406120902).
+  - PS : You will need [[WOTC] [WSR] Laser and Coil Arsenal Templates](https://steamcommunity.com/sharedfiles/filedetails/?id=1831093105) if you use 5TWO for the weapon to have physics and actually be "usable"
 - [Long war of the chosen](https://steamcommunity.com/sharedfiles/filedetails/?id=2683996590)
 - Any other mod that adds Laser and Coil tech to the game (if you do, tell me about it so that I can add the code for it)
 
