@@ -42,4 +42,4 @@ Because it allows you to change the source code and compile the mod as you see f
 **YES**, you can, you can open issues, pull request, discussions...
 
 ### Can I fork it ?
-Yes you can, just credit the original author (Kiruka), Krakenous and me.
+It's just config, but sure, just credit me.
