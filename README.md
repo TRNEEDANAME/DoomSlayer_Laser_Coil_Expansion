@@ -10,7 +10,7 @@ This will be the most up to date project folder from the mod, even before it's o
 - The Modbuddy SDK (Search in the steam's tool sections)
 - Follow the wondeful [guide from the Xcom 2 modding subreddit](https://www.reddit.com/r/xcom2mods/wiki/firsttime#wiki_how_to_install_and_set_up_xcom_2_wotc_sdk)
 - Start the SDK, go in file then "open mod project" (you will need to extract the project's folder).
-- Then do your changes (DO NOT CHANGES the `XcomEditor.ini`, `XcomEngine.ini` and `XcomGame.ini` or the mod will throw in an errors. In general, don't change the content in the `.uc` file unless you know what you are doing)
+- Then do your changes (DO NOT CHANGES the `XcomEditor.ini`, `XcomEngine.ini` and `XcomGame.ini` or the mod will throw in an error).
 
 ### Mods used by this mod
 
@@ -29,7 +29,7 @@ This will be the most up to date project folder from the mod, even before it's o
 
 #### Supported mod
 
-- This mod also add infiltration support for [[WOTC] Covert Infiltration](https://steamcommunity.com/sharedfiles/filedetails/?id=2567230730) (the slayer add +24h of infiltration and augment the risk, because he is the Doom Slayer).
+- This mod also add infiltration support for [[WOTC] Covert Infiltration](https://steamcommunity.com/sharedfiles/filedetails/?id=2567230730) (the slayer add +5h of infiltration and augment the risk, because he is the Doom Slayer).
 - Support [[WotC] Coilguns - Beam Tier Replacer 3.0](https://steamcommunity.com/sharedfiles/filedetails/?id=1929060959) and [[WotC] Laser Weapons - Magnetic Tier Replacer 3.1](https://steamcommunity.com/sharedfiles/filedetails/?id=1929061963). This support will require [[WOTC] WSR Weapon Skin Replacer - Core](https://steamcommunity.com/sharedfiles/filedetails/?id=1517938486)
 - Support for [WSR Shotgun Animations](https://steamcommunity.com/sharedfiles/filedetails/?id=1701209115). It cover the base, mag, laser, coil and beam shotgun and will require [[WOTC] WSR Weapon Skin Replacer - Core](https://steamcommunity.com/sharedfiles/filedetails/?id=1517938486).
 
