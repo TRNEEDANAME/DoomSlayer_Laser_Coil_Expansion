@@ -32,6 +32,7 @@ This will be the most up to date project folder from the mod, even before it's o
 - This mod also add infiltration support for [[WOTC] Covert Infiltration](https://steamcommunity.com/sharedfiles/filedetails/?id=2567230730) (the slayer add +5h of infiltration and augment the risk, because he is the Doom Slayer).
 - Support [[WotC] Coilguns - Beam Tier Replacer 3.0](https://steamcommunity.com/sharedfiles/filedetails/?id=1929060959) and [[WotC] Laser Weapons - Magnetic Tier Replacer 3.1](https://steamcommunity.com/sharedfiles/filedetails/?id=1929061963). This support will require [[WOTC] WSR Weapon Skin Replacer - Core](https://steamcommunity.com/sharedfiles/filedetails/?id=1517938486)
 - Support for [WSR Shotgun Animations](https://steamcommunity.com/sharedfiles/filedetails/?id=1701209115). It cover the base, mag, laser, coil and beam shotgun and will require [[WOTC] WSR Weapon Skin Replacer - Core](https://steamcommunity.com/sharedfiles/filedetails/?id=1517938486).
+- Not really a mod, but this mod also changes the Beam damage to be more in line with the 5 tier's system. 
 
 ## FAQ
 
