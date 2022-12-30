@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # XCOM ModBuddy Solution File, Format Version 11.00
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{5DAE07AF-E217-45C1-8DE7-FF99D6011E8A}") = "CI_5TWO_LWOTC_BridgeForDoomSlayer", "CI_5TWO_LWOTC_BridgeForDoomSlayer\CI_5TWO_LWOTC_BridgeForDoomSlayer.x2proj", "{84C76802-6DB6-4D5B-AA48-1B1931B64A90}"
+Project("{5DAE07AF-E217-45C1-8DE7-FF99D6011E8A}") = "CI_5TWO_LWOTC_BridgeForDoomSlayer", "CI_5TWO_LWOTC_BridgeForDoomSlayer\CI_5TWO_LWOTC_BridgeForDoomSlayer.x2proj", "{64FFA231-0E62-4E3C-B5A4-5DA56F6D945D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|XCOM 2 = Default|XCOM 2
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{84C76802-6DB6-4D5B-AA48-1B1931B64A90}.Default|XCOM 2.ActiveCfg = Default|XCOM 2
-		{84C76802-6DB6-4D5B-AA48-1B1931B64A90}.Default|XCOM 2.Build.0 = Default|XCOM 2
+		{64FFA231-0E62-4E3C-B5A4-5DA56F6D945D}.Default|XCOM 2.ActiveCfg = Default|XCOM 2
+		{64FFA231-0E62-4E3C-B5A4-5DA56F6D945D}.Default|XCOM 2.Build.0 = Default|XCOM 2
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
