@@ -12,9 +12,6 @@
   <ItemGroup>
     <Folder Include="Config\" />
     <Folder Include="Localization\" />
-    <Folder Include="Src\" />
-    <Folder Include="Src\CI_5TWO_LWOTC_BridgeForDoomSlayer\" />
-    <Folder Include="Src\CI_5TWO_LWOTC_BridgeForDoomSlayer\Classes\" />
     <Content Include="Config\XcomTemplateCreator.ini">
       <SubType>Content</SubType>
     </Content>
@@ -30,7 +27,6 @@
     <Content Include="Config\XComEngine.ini" />
     <Content Include="Config\XComGame.ini" />
     <Content Include="Localization\XComGame.int" />
-    <Content Include="Src\CI_5TWO_LWOTC_BridgeForDoomSlayer\Classes\X2DownloadableContentInfo_CI_5TWO_LWOTC_BridgeForDoomSlayer.uc" />
     <Content Include="Config\XComInfiltration.ini" />
     <Content Include="Config\XComStrategyTuning.ini" />
   </ItemGroup>
