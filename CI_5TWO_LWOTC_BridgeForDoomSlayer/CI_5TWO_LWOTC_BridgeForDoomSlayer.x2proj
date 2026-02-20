@@ -12,6 +12,10 @@
   <ItemGroup>
     <Folder Include="Config\" />
     <Folder Include="Localization\" />
+    <Folder Include="Config\Cannon\" />
+    <Folder Include="Config\Rifle\" />
+    <Folder Include="Config\Shotgun\" />
+    <Folder Include="Config\Sniper\" />
     <Content Include="Config\XcomTemplateCreator.ini">
       <SubType>Content</SubType>
     </Content>
@@ -29,5 +33,10 @@
     <Content Include="Localization\XComGame.int" />
     <Content Include="Config\XComInfiltration.ini" />
     <Content Include="Config\XComStrategyTuning.ini" />
+    <Content Include="PublishedFileId.ID" />
+    <Content Include="Config\Cannon\XComTemplateEditor.ini" />
+    <Content Include="Config\Rifle\XComTemplateEditor.ini" />
+    <Content Include="Config\Shotgun\XComTemplateEditor.ini" />
+    <Content Include="Config\Sniper\XComTemplateEditor.ini" />
   </ItemGroup>
 </Project>
